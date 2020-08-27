@@ -1,0 +1,37 @@
+{
+  "id": "2029744",
+  "name": "s-mall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1435230",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "4550493",
+      "name": "我的",
+      "font_class": "wode1",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "10806186",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "13320037",
+      "name": "首 页",
+      "font_class": "shouye",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    }
+  ]
+}
